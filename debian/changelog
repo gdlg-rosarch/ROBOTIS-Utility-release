@@ -1,0 +1,16 @@
+ros-kinetic-ros-mpg321-player (0.1.1-2xenial) xenial; urgency=high
+
+  * modified install rule
+
+ -- Pyo <pyo@robotis.com>  Thu, 22 Sep 2016 15:00:00 -0000
+
+ros-kinetic-ros-mpg321-player (0.1.0-2xenial) xenial; urgency=high
+
+  * made the meta-package for rosbotis utility
+  * modified ros_mpg321_player, edit package.xml, add stop playing
+  * Added ros_mpg321_player pkg
+  * Contributors: Zerom, Jay Song, Pyo
+
+ -- pyo <pyo@robotis.com>  Tue, 16 Aug 2016 15:00:00 -0000
+
+
