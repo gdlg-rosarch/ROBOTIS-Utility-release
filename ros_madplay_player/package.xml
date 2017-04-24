@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <package>
-  <name>ros_mpg321_player</name>
+  <name>ros_madplay_player</name>
   <version>0.1.2</version>
   <description>
     This package is a node that can playing mp3 file.
-    This package is using mpg321 which is command-line mp3 player.
+    This package is using madplay which is command-line mp3 player.
   </description>
   <license>BSD</license>
-  <author email="zerom@robotis.com">Zerom</author>
+  <author email="hjsong@robotis.com">Jay Song</author>
   <maintainer email="pyo@robotis.com">Pyo</maintainer>
   <url type="bugtracker">https://github.com/ROBOTIS-GIT/ROBOTIS-Utility/issues</url>
   <url type="repository">https://github.com/ROBOTIS-GIT/ROBOTIS-Utility</url>
