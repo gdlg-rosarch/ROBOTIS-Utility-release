@@ -1,0 +1,13 @@
+Source: ros-kinetic-ros-madplay-player
+Section: misc
+Priority: extra
+Maintainer: Pyo <pyo@robotis.com>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin, ros-kinetic-roscpp, ros-kinetic-std-msgs
+Homepage: http://wiki.ros.org/ros_mpg321_player
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-ros-madplay-player
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-roscpp, ros-kinetic-std-msgs
+Description: This package is a node that can playing mp3 file.
+ This package is using madplay which is command-line mp3 player.
