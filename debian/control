@@ -1,0 +1,12 @@
+Source: ros-kinetic-robotis-utility
+Section: misc
+Priority: extra
+Maintainer: pyo <pyo@robotis.com>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin
+Homepage: http://wiki.ros.org/ros_mpg321_player
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-robotis-utility
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-ros-madplay-player, ros-kinetic-ros-mpg321-player
+Description: ROS packages for the ROBOTIS Utility (meta package)

@@ -1,0 +1,22 @@
+ros-kinetic-robotis-utility (0.1.2-0xenial) xenial; urgency=high
+
+  * added ros_madplay_player pkg
+  * added movement done msg
+  * Contributors: Jay Song
+
+ -- pyo <pyo@robotis.com>  Sun, 23 Apr 2017 15:00:00 -0000
+
+ros-kinetic-robotis-utility (0.1.1-0xenial) xenial; urgency=high
+
+  * modified install rule
+
+ -- pyo <pyo@robotis.com>  Thu, 22 Sep 2016 15:00:00 -0000
+
+ros-kinetic-robotis-utility (0.1.0-0xenial) xenial; urgency=high
+
+  * made the meta-package for rosbotis utility
+  * Contributors: zerom, pyo
+
+ -- pyo <pyo@robotis.com>  Tue, 16 Aug 2016 15:00:00 -0000
+
+
