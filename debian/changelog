@@ -1,0 +1,30 @@
+ros-kinetic-ros-madplay-player (0.1.3-0jessie) jessie; urgency=high
+
+  * changed package format to v2 and LICENSE to Apache 2.0
+  * fixed movement_done msg publish bug
+  * Contributors: Zerom, Pyo
+
+ -- Pyo <pyo@robotis.com>  Tue, 20 Mar 2018 15:00:00 -0000
+
+ros-kinetic-ros-madplay-player (0.1.2-0jessie) jessie; urgency=high
+
+  * modified ros_madplay_player pkg
+  * Contributors: Jay Song
+
+ -- Pyo <pyo@robotis.com>  Sun, 23 Apr 2017 15:00:00 -0000
+
+ros-kinetic-ros-madplay-player (0.1.1-0jessie) jessie; urgency=high
+
+  * added ros_madplay_player pkg
+  * Contributors: Zerom, Jay Song, Pyo
+
+ -- Pyo <pyo@robotis.com>  Thu, 02 Feb 2017 15:00:00 -0000
+
+ros-kinetic-ros-madplay-player (0.1.0-0jessie) jessie; urgency=high
+
+  * made the meta-package for rosbotis utility
+  * Contributors: Zerom, Pyo
+
+ -- Pyo <pyo@robotis.com>  Tue, 16 Aug 2016 15:00:00 -0000
+
+
